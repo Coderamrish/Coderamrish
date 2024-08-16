@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderamrish" alt="coderamrish" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Mern Stack, Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://coderamrish.github.io/portfolio/](https://coderamrish.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://vocal-conkies-7568d2.netlify.app/](https://vocal-conkies-7568d2.netlify.app/)
 
 - 💬 Ask me about **react, ML, C++,C, PYTHON,**
 
