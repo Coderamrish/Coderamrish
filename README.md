@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderamrish&label=Profile%20views&color=0e75b6&style=flat" alt="coderamrish" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderamrish" alt="coderamrish" /></a> </p>
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username= Amrish Kumar tiwary &layout=compact&theme=dark)
+
 
 - 🌱 I’m currently learning **DSA, AIML**
 
