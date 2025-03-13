@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Amrish Kumar Tiwary</h1>
-<h3 align="center">A passionate web developer, AI , machine learning</h3>
+<h3 align="center">A passionate web developer, AIML </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderamrish&label=Profile%20views&color=0e75b6&style=flat" alt="coderamrish" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderamrish" alt="coderamrish" /></a> </p>
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username= Amrish Kumar tiwary &layout=compact&theme=dark)
 
-- 🌱 I’m currently learning **Mern Stack, Machine learning**
+- 🌱 I’m currently learning **DSA, AIML**
 
 - 👨‍💻 All of my projects are available at [https://vocal-conkies-7568d2.netlify.app/](https://vocal-conkies-7568d2.netlify.app/)
 
-- 💬 Ask me about **react, ML, C++,C, PYTHON,**
+- 💬 Ask me about **MERN stack, AIML, C++,C, PYTHON,DSA**
 
 - 📫 How to reach me **tiwariambrish81@gmail.com**
 
