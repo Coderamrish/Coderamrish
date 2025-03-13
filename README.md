@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amrish Kumar Tiwary</h1>
-<h3 align="center">A passionate web developer, AIML </h3>
+<h3 align="center">A passionate web developer, AIML Enthusiastic </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderamrish&label=Profile%20views&color=0e75b6&style=flat" alt="coderamrish" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderamrish" alt="coderamrish" /></a> </p>
+<p align="center">
+    <img src="https://wakatime.com/badge/user/018ca5a4-e0f2-4fab-834f-1af422477677.svg" alt="@coderamrish" />
+
+</p>
 
 
 - 🌱 I’m currently learning **DSA, AIML**
