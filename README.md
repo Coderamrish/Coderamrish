@@ -1,21 +1,37 @@
-<!-- 🔥 Animated Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F7B93E&center=true&vCenter=true&width=750&lines=Hey!+I'm+Amrish+Kumar+Tiwary;🚀+Web+Developer+|+AI+Enthusiast;MERN+Stack+|+Python+|+OpenCV;Let's+Innovate+Together!+💡" />
-</h1>
+<h1 align="center">Hi 👋, I'm Amrish Kumar Tiwary</h1>
+<h3 align="center">A passionate web developer, AIML Enthusiastic </h3>
 
-<!-- 🔥 Profile Views and Trophies -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderamrish&label=Profile%20views&color=0e75b6&style=flat" alt="coderamrish" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderamrish" alt="coderamrish" /></a> </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=coderamrish&label=Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-     <img src="https://wakatime.com/badge/user/018ca5a4-e0f2-4fab-834f-1af422477677.svg" alt="Wakatime Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=coderamrish&theme=radical&no-frame=true&margin-w=10" alt="Trophies" />
+    <img src="https://wakatime.com/badge/user/018ca5a4-e0f2-4fab-834f-1af422477677.svg" alt="Coderamrish" />
+
 </p>
 
----
 
-## 🌟 **About Me**  
-```yaml
-name: "Amrish Kumar Tiwary"
-skills: ["Full-Stack Web Development", "AI/ML", "Python", "OpenCV", "C++"]
-currently_learning: ["Deep Learning", "Blockchain Development", "Game Development"]
-hobbies: ["Coding 💻", "Hackathons ⚡", "Tech Research 🔬", "Gaming 🎮"]
-fun_fact: "My code runs on coffee ☕ & passion! 🚀"
+- 🌱 I’m currently learning **DSA, AIML**
+
+- 👨‍💻 All of my projects are available at [https://vocal-conkies-7568d2.netlify.app/](https://vocal-conkies-7568d2.netlify.app/)
+
+- 💬 Ask me about **MERN stack, AIML, C++,C, PYTHON,DSA**
+
+- 📫 How to reach me **tiwariambrish81@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/in/amrish-kumar-tiwary-171776278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/amrish-kumar-tiwary-171776278" height="30" width="40" /></a>
+<a href="https://fb.com/amrish tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amrish tiwari" height="30" width="40" /></a>
+<a href="https://instagram.com/im_amrish00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_amrish00" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/tiwariambrish81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tiwariambrish81" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/coderamrish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/coderamrish/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderamrish&show_icons=true&locale=en&layout=compact" alt="coderamrish" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderamrish&show_icons=true&locale=en" alt="coderamrish" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderamrish&" alt="coderamrish" /></p>,
