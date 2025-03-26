@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderamrish" alt="coderamrish" /></a> </p>
 <p align="center">
-    <img src="https://wakatime.com/badge/user/018ca5a4-e0f2-4fab-834f-1af422477677.svg" alt="coderamrish" />
+    <img src="https://wakatime.com/badge/8fed636f-41d9-4243-b141-92d1e4620879.svg" alt="coderamrish" />
 
 </p>
 
