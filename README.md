@@ -27,7 +27,7 @@ open-source contributions, and building scalable applications.
 - 🚀 **Currently Learning:** Advanced DSA, AIML, Cloud Architecture & Microservices
 - 🌟 **Expertise:** MERN Stack, Machine Learning, Problem Solving, Open Source Development
 - 🏆 **Achievements:** Hackathon Winner | Top 5% LeetCode | Published Researcher | 1000+ GitHub Stars
-- 💼 **Portfolio:** [amrish-portfolio.netlify.app](https://vocal-conkies-7568d2.netlify.app/) - Check out my projects!
+- 💼 **Portfolio:** [amrish-portfolio.netlify.app](https://amrish08.netlify.app/) - Check out my projects!
 - 💭 **Philosophy:** Building products that solve real problems and help communities grow
 - 📧 **Contact:** [tiwariambrish81@gmail.com](mailto:tiwariambrish81@gmail.com)
 
