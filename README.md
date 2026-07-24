@@ -147,7 +147,7 @@ I'm a **Full Stack Developer & AI Enthusiast** obsessed with turning ambitious i
 <div align="center">
 <img src="https://raw.githubusercontent.com/Coderamrish/Coderamrish/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph"/>
 <br/>
-<sub>Generated via <a href="https://github.com/yoshi389111/github-profile-3d-contrib">yoshi389111/github-profile-3d-contrib</a> (scheduled GitHub Action — setup notes below)</sub>
+<sub>Generated via <a href="https://github.com/yoshi389111/github-profile-3d-contrib"></sub>
 </div>
 
 <br/>
