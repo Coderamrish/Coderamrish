@@ -55,20 +55,16 @@ I'm a **Full Stack Developer & AI Enthusiast** obsessed with turning ambitious i
 💭 philosophy:      "Build products that solve real problems."
 ```
 
-- 🔭 Currently engineering **scalable systems & AI-driven products**
+- 🔭 Currently building **RAG + Computer Vision systems** for aquaculture (Meenasetu) and oceanographic data (NeptuneAI)
 - 🌱 Leveling up in **system design, DevOps & advanced algorithms**
 - 👯 Open to **open-source collabs, hackathons & bold startups**
-- 💬 Ask me about **React, Node.js, ML pipelines, or DSA**
+- 💬 Ask me about **React, Node.js, RAG pipelines, or applied ML**
 - ⚡ Fun fact: my best code ships after midnight ☕🌙
 
 </td>
 <td width="40%" align="center" valign="top">
 
 <img src="https://raw.githubusercontent.com/OleksiiBulba/OleksiiBulba/master/gifs/Hi.gif" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-quotes-woc.vercel.app/api?type=horizontal&theme=tokyonight&animation=true" width="100%"/>
 
 </td>
 </tr>
@@ -227,12 +223,12 @@ I'm a **Full Stack Developer & AI Enthusiast** obsessed with turning ambitious i
 
 | Project | What it does | Tech |
 |---|---|---|
-| 🏟️ [**sports_club**](https://github.com/Coderamrish/sports_club) | _Add a one-line description of what this project does_ | _Add stack, e.g. MERN_ |
-| 🎣 [**Meenasetu**](https://github.com/Coderamrish/Meenasetu) | _Add a one-line description of what this project does_ | _Add stack_ |
-| 🪐 [**NeptuneAI**](https://github.com/Coderamrish/NeptuneAI) | _Add a one-line description of what this project does_ | _Add stack, e.g. Python/ML_ |
-| 🌾 [**crop-prediction-using-ai**](https://github.com/Coderamrish/crop-prediction-using-ai) | _Add a one-line description of what this project does_ | _Add stack, e.g. Python/ML_ |
+| 🏟️ [**sports_club**](https://github.com/Coderamrish/sports_club) | Full-stack sports club management platform for state/national associations — athlete registration, competition management, PDF certificate generation with QR codes, and integrated payments | React · Node.js · MongoDB · Tailwind · Razorpay · AWS S3 |
+| 🎣 [**Meenasetu**](https://github.com/Coderamrish/Meenasetu) | AI aquaculture assistant that identifies fish species and detects diseases from photos, then answers farming questions in bilingual (Hindi-English) natural language via a RAG pipeline over 43,500+ documents | Python · FastAPI · PyTorch · Keras · ChromaDB |
+| 🪐 [**NeptuneAI**](https://github.com/Coderamrish/NeptuneAI) | "Ask the ocean" platform fusing ARGO float data, AIS maritime telemetry, and live feeds into a conversational RAG + Transformer system with geospatial visualization and route safety analytics | Python · React · Streamlit · FAISS/Chroma · WebSockets |
+| 🌾 [**crop-prediction-using-ai**](https://github.com/Coderamrish/crop-prediction-using-ai) | ML-driven precision farming tool — GPS-based location analysis, soil (pH/NPK/moisture) diagnostics, and live weather integration to recommend optimal crops and maximize yield | Python · TensorFlow · Scikit-learn |
 
-<sub>💡 Fill in the italic placeholders with a real one-liner for each project — recruiters skim this table before clicking through.</sub>
+<sub>📌 Descriptions pulled directly from each project's README — update here if the repos evolve.</sub>
 
 </div>
 
